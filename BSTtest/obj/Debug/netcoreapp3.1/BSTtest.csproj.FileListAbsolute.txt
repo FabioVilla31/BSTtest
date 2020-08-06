@@ -1,0 +1,13 @@
+C:\Users\fofov\source\repos\BSTtest\BSTtest\bin\Debug\netcoreapp3.1\BSTtest.exe
+C:\Users\fofov\source\repos\BSTtest\BSTtest\bin\Debug\netcoreapp3.1\BSTtest.deps.json
+C:\Users\fofov\source\repos\BSTtest\BSTtest\bin\Debug\netcoreapp3.1\BSTtest.runtimeconfig.json
+C:\Users\fofov\source\repos\BSTtest\BSTtest\bin\Debug\netcoreapp3.1\BSTtest.runtimeconfig.dev.json
+C:\Users\fofov\source\repos\BSTtest\BSTtest\bin\Debug\netcoreapp3.1\BSTtest.dll
+C:\Users\fofov\source\repos\BSTtest\BSTtest\bin\Debug\netcoreapp3.1\BSTtest.pdb
+C:\Users\fofov\source\repos\BSTtest\BSTtest\obj\Debug\netcoreapp3.1\BSTtest.csprojAssemblyReference.cache
+C:\Users\fofov\source\repos\BSTtest\BSTtest\obj\Debug\netcoreapp3.1\BSTtest.AssemblyInfoInputs.cache
+C:\Users\fofov\source\repos\BSTtest\BSTtest\obj\Debug\netcoreapp3.1\BSTtest.AssemblyInfo.cs
+C:\Users\fofov\source\repos\BSTtest\BSTtest\obj\Debug\netcoreapp3.1\BSTtest.csproj.CoreCompileInputs.cache
+C:\Users\fofov\source\repos\BSTtest\BSTtest\obj\Debug\netcoreapp3.1\BSTtest.dll
+C:\Users\fofov\source\repos\BSTtest\BSTtest\obj\Debug\netcoreapp3.1\BSTtest.pdb
+C:\Users\fofov\source\repos\BSTtest\BSTtest\obj\Debug\netcoreapp3.1\BSTtest.genruntimeconfig.cache
